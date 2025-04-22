@@ -1,0 +1,1 @@
+# G-rme_Engelliler_i-in_sokak-tabelalar-n-n-alg-lanmas-
