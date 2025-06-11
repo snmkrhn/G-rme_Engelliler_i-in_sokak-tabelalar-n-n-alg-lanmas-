@@ -16,3 +16,8 @@ Tesseract OCR – Metin tanıma
 gTTS (Google Text-to-Speech) – Sesli geri bildirim
 Federated Learning (FLwr) – Dağıtık model güncellemesi
 Google Colab + Local PC – Eğitim ve test ortamı
+📈 Kullanım Alanları
+Şehir içi yön bulma desteği
+Görme engelliler için bağımsız hareketlilik
+Akıllı şehir uygulamaları
+Toplu taşımada sesli yönlendirme sistemleri
